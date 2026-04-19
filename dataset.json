@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Market-wide restaurant data for Livonia in the Great Lakes region. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Livonia, Michigan, US",
-  "export_job_id": "e57a2ac1-deff-4698-ab84-eae74df127e3",
+  "export_job_id": "5f185ab7-c461-46b2-809b-be9000eb6ded",
   "github_org": "Beamstation-Datasets",
   "id_short": 669721,
   "location_name": "Livonia",
   "location_type": "city",
   "repo_name": "all-restaurants-in-livonia-michigan-us-sample-669721",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/669721/beamstation_669721_restaurants-us-mi_SAMPLE_DIST.csv",
-  "sample_pct": 9.74,
+  "sample_pct": 9.94,
   "sample_records": 34,
-  "sample_sha256": "a5457836a7568d833a939bd6d0eb027643829ccda00f15acef2e29fe40fd48c4",
-  "sample_size_bytes": 135175,
-  "total_records": 349,
-  "updated_at": "2026-04-09T10:39:05.204781+00:00"
+  "sample_sha256": "9f4493eed4fb0ec3002389f87910ccfac18bd7e567faa0cc4f327399c7eefb28",
+  "sample_size_bytes": 125818,
+  "total_records": 342,
+  "updated_at": "2026-04-16T10:31:56.913300+00:00"
 }

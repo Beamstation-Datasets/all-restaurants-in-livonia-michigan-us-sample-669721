@@ -9,9 +9,9 @@
 | Dataset ID | `669721` |
 | Location | Livonia |
 | Category | Restaurants |
-| Full dataset size | 349 records |
-| Free sample size | 34 records (9.74%) |
-| Last export | 2026-04-09T10:39:05.204781+00:00 |
+| Full dataset size | 342 records |
+| Free sample size | 34 records (9.94%) |
+| Last export | 2026-04-16T10:31:56.913300+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-livonia-michigan-us-sample-669721/releases/download/sample-latest/beamstation_669721_restaurants-us-mi_SAMPLE_DIST.csv) |
 
 ## What is in this sample

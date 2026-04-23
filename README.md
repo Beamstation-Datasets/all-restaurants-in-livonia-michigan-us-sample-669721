@@ -1,6 +1,6 @@
 # All Restaurants in Livonia, Michigan, US
 
-> Free BeamStation sample export with 34 rows and masked direct-contact fields.
+> Free BeamStation sample export with 31 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `669721` |
 | Location | Livonia |
 | Category | Restaurants |
-| Full dataset size | 342 records |
-| Free sample size | 34 records (9.94%) |
-| Last export | 2026-04-16T10:31:56.913300+00:00 |
+| Full dataset size | 318 records |
+| Free sample size | 31 records (9.75%) |
+| Last export | 2026-04-23T10:21:54.269504+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-livonia-michigan-us-sample-669721/releases/download/sample-latest/beamstation_669721_restaurants-us-mi_SAMPLE_DIST.csv) |
 
 ## What is in this sample

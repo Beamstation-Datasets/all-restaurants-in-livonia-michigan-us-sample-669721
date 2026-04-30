@@ -1,12 +1,12 @@
 {
-  "export_job_id": "80510500-98f1-47ed-9a38-ab119ad66bd2",
+  "export_job_id": "3c15ac9e-e893-447d-b263-091e602e5268",
   "id_short": 669721,
-  "published_at": "2026-04-23T19:33:52Z",
+  "published_at": "2026-04-30T19:29:38Z",
   "repo_name": "all-restaurants-in-livonia-michigan-us-sample-669721",
   "sample_asset_name": "beamstation_669721_restaurants-us-mi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/669721/beamstation_669721_restaurants-us-mi_SAMPLE_DIST.csv",
-  "sample_records": 31,
-  "sample_sha256": "80d40b69625967eeb26a9fe801d158f7d9fd62b52139ad40c238eafd906df7ea",
-  "sample_size_bytes": 122520,
-  "total_records": 318
+  "sample_records": 34,
+  "sample_sha256": "f9ca1545d13b834315dfdf5b8d47e18ad356f33703006ee09b9b87af451febcf",
+  "sample_size_bytes": 140556,
+  "total_records": 348
 }
